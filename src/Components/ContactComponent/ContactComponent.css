@@ -1,0 +1,25 @@
+
+
+.contact-container{
+    height:40px;
+    margin: 15px;
+
+}
+.contactname {
+    position: relative;
+    left: 30px;
+}
+
+
+
+.phone {
+    position: relative;
+    top: -22px;
+    left: 200px;
+}
+
+.contact-hr{
+    position: relative;
+    top: -15px;
+
+}

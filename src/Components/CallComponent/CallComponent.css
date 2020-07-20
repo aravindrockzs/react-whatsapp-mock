@@ -1,0 +1,24 @@
+
+.call-container{
+    height:40px;
+    margin: 15px;
+
+}
+
+.calltime {
+    position: relative;
+    top: -21px;
+    left: 150px;
+}
+
+.type {
+    position: relative;
+    top: -42px;
+    left: 250px;
+}
+
+.call-hr{
+    position: relative;
+    top: -35px;
+}
+

@@ -1,0 +1,30 @@
+.chat-container{
+    height:65px;
+    margin: 15px;
+    font-size: x-small;
+
+}
+
+img{
+    height: 40px;
+    border-radius: 50px;
+    vertical-align:bottom;
+}
+
+.content {
+    position: relative;
+    top: -42px;
+    left: 55px;
+}
+
+.time {
+    position: relative;
+    top: -85px;
+    left: 250px;
+}
+
+hr {
+    position: relative;
+    top: -45px;
+    border: 0.5px solid #ebebe0;
+}

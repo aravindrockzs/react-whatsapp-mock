@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.toolbar{
+    height:50%;
+    width:96%;
+    color:#FFFFFF;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+   margin: 15px 0px 15px 7px;
+}
+
+span{
+    padding: 5px 5px 0 5px;
+}
+
+.fa,fa-search,fa-ellipsis-v,fa-envelope{
+    padding: 5px 7px 0 7px;
+    cursor: pointer;
+    float: right;
+}

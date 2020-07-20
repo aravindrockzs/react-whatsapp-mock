@@ -1,0 +1,100 @@
+{
+    "header": {
+      "title": "Whatsapp",
+      "actions": [ "search", "chat", "menu" ],
+      "toolbarButtons": ["CALLS", "CHATS", "CONTACTS"]
+    },
+    "data": [
+      {
+        "profileImage": "https://www.w3schools.com/howto/img_avatar2.png",
+        "username": "Aravind",
+        "message": "ddaal0",
+        "time": "09:11",
+        "contactName": "Aravind_NW",
+        "phoneNumber": 8975642310,
+        "callType": "In"
+      },
+      {
+        "profileImage": "https://www.w3schools.com/howto/img_avatar2.png",
+        "username": "Shaurya",
+        "message": "bwolledge1",
+        "time": "09:12",
+        "contactName": "Shaurya_NW",
+        "phoneNumber": 8975642310,
+        "callType": "Out"
+      },
+      {
+        "profileImage": "https://www.w3schools.com/howto/img_avatar2.png",
+        "username": "Sithi",
+        "message": "ccogley2",
+        "time": "09:15",
+        "contactName": "Sithi_NW",
+        "phoneNumber": 8975642310,
+        "callType": "In"
+      },
+      {
+        "profileImage": "https://www.w3schools.com/howto/img_avatar2.png",
+        "username": "Rahul",
+        "message": "foswick3",
+        "time": "09:16",
+        "contactName": "Rahul_NW",
+        "phoneNumber": 8975642310,
+        "callType": "Out"
+      },
+      {
+        "profileImage": "https://www.w3schools.com/howto/img_avatar2.png",
+        "username": "Nibedan",
+        "message": "rmunning4",
+        "time": "09:18",
+        "contactName": "Nibedan_NW",
+        "phoneNumber": 8975642310,
+        "callType": "In"
+      },
+      {
+        "profileImage": "https://www.w3schools.com/howto/img_avatar2.png",
+        "username": "Kushagra",
+        "message": "lodoireidh5",
+        "time": "09:20",
+        "contactName": "Kushagra_NW",
+        "phoneNumber": 8975642310,
+        "callType": "Out"
+      },
+      {
+        "profileImage": "https://www.w3schools.com/howto/img_avatar2.png",
+        "username": "Rishabh",
+        "message": "ftownsend6",
+        "time": "09:21",
+        "contactName": "Rishabh_NW",
+        "phoneNumber": 8975642310,
+        "callType": "In"
+      },
+      {
+        "profileImage": "https://www.w3schools.com/howto/img_avatar2.png",
+        "username": "Riya",
+        "message": "wgabbat7",
+        "time": "09:22",
+        "contactName": "Riya_NW",
+        "phoneNumber": 8975642310,
+        "callType": "Out"
+      },
+      {
+        "profileImage": "https://www.w3schools.com/howto/img_avatar2.png",
+        "username": "Niraj",
+        "message": "dstenett8",
+        "time": "09:30",
+        "contactName": "Niraj_NW",
+        "phoneNumber": 8975642310,
+        "callType": "In"
+      },
+      {
+        "profileImage": "https://www.w3schools.com/howto/img_avatar2.png",
+        "username": "Rakesh",
+        "message": "adeye9",
+        "time": "09:40",
+        "contactName": "Rakesh_NW",
+        "phoneNumber": 8975642310,
+        "callType": "Out"
+      }
+    ]
+  
+  }
